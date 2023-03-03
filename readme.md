@@ -1,6 +1,6 @@
 **1. Имя:** Veranika Ablavatskaya
 
-**2. Должность:** QA
+**2. Должность:** QA Engineer
 
 **3. Компания:** Digitalchemy
 
